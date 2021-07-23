@@ -1,2 +1,2 @@
-# sequence-thing
-4 letter thingy
+# staticSquare
+A static square made using Matter.js physics engine
